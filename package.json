@@ -1,0 +1,41 @@
+{
+  "name": "react-router-redux-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.7",
+    "history": "^4.7.2",
+    "qs": "^6.5.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^2.0.0-next.9754a231",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.64.0",
+    "react-styleguidist": "^6.2.0"
+  },
+  "browserslist": {
+    "development": [
+      "last 2 chrome versions",
+      "last 2 firefox versions",
+      "last 2 edge versions"
+    ],
+    "production": [
+      ">1%",
+      "last 4 versions",
+      "Firefox ESR",
+      "not ie < 11"
+    ]
+  }
+}
